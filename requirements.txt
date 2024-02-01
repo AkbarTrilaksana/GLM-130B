@@ -3,3 +3,5 @@ icetk
 apex
 scipy
 dataclass_wizard
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.37.0 # not directly required, pinned by Snyk to avoid a vulnerability
